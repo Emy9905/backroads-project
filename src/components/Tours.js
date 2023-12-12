@@ -45,7 +45,6 @@ const Tours = () => {
             </article>
           );
         })}
-        ;
       </div>
     </section>
   );
